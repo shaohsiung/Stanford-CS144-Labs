@@ -1,5 +1,9 @@
 For build prereqs, see [the CS144 VM setup instructions](https://web.stanford.edu/class/cs144/vm_howto).
 
+## Resources
+
+- [CS144 Introduction, Code/Documention](https://cs144.github.io/)
+- [CS144, Introduction to Computer Networking - YouTube](https://www.youtube.com/watch?v=qAFI-2I7wPE&list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
 ## Sponge quickstart
 
 To set up your build directory:
